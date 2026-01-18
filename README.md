@@ -35,7 +35,6 @@ This project allows users to rent and return cars while managing customer and ve
 1. Rent a Car
 2. Return a Car
 3. Exit
-   
 Enter your choice:
 
 ## Author
